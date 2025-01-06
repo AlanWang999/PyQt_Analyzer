@@ -1,0 +1,1 @@
+print("__name__ in c.py:", __name__)
